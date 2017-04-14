@@ -12,12 +12,13 @@ body {
     font-family: 'Inconsolata', monospace;
     /*background-image: url(http://svgshare.com/i/15m.svg);*/
     /*background-image: url(http://i.imgur.com/XRvFylh.gif);*/
-    /*background-image: url(http://i.imgur.com/3ysy7hC.jpg);*/
+    background-image: url(../assets/curve1.svg);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: 1500px;
+    background-size: 2500px;
     
 }
+
 
 .image-wrapper {
   width: 100%;
@@ -134,15 +135,15 @@ body {
   background: #35383d; }
 
 [data-accordion-menu] .is-accordion-submenu-parent[aria-expanded="true"] a.subitem::before {
-  content: url(assets/asset 1.png);
+  content: ;
   margin-right: 1rem; } 
 
 [data-accordion-menu] .is-accordion-submenu-parent[aria-expanded="true"] a::before {
-  content: url(http://imgur.com/a/zBjG8);
+  content: ;
   margin-right: 1rem; }
 
 [data-accordion-menu] .is-accordion-submenu-parent[aria-expanded="false"] a::before {
-  content: url(http://imgur.com/a/zBjG8);
+  content: ; 
   margin-right: 1rem; }
 
 .sublevel-1 {
