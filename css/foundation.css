@@ -2299,6 +2299,7 @@ select {
   .menu > li > a i,
   .menu > li > a svg {
     margin-right: 0.25rem;
+      padding-right: 65px;
     display: inline-block; }
   .menu > li, .menu.horizontal > li {
     display: table-cell; }
